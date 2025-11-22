@@ -1,0 +1,7 @@
+{
+  "name": "PixelSmash Collector",
+  "description": "Scan your badminton rackets, convert them into retro pixel-art game cards, and analyze their stats using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
